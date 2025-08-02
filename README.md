@@ -8,12 +8,6 @@ A simple, responsive front-end website for an NGO named **Helping Hands**, built
 - ✅ **About Us** section with brief introduction
 - ✅ **Volunteer Form** (HTML form)
 - ✅ **Responsive Design** for mobile and desktop
-
-## 📸 Screenshots
-
-![Home Page Screenshot](Screenshort full page.png)  
-_Add a screenshot of your home page if possible_
-
 ## 🛠️ Technologies Used
 
 - HTML5  
