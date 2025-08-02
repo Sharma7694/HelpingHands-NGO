@@ -11,7 +11,7 @@ A simple, responsive front-end website for an NGO named **Helping Hands**, built
 
 ## 📸 Screenshots
 
-![Home Page Screenshot](screenshot-home.png)  
+![Home Page Screenshot](Screenshort full page.png)  
 _Add a screenshot of your home page if possible_
 
 ## 🛠️ Technologies Used
